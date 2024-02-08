@@ -1,7 +1,5 @@
-# About Me & My Data Journey
-I graduated from Purdue University with a degree in Mechanical Engineering. I spent the six years after school primarily in manufacturing. During this time, I honed my analytical skills and leveraged tools like Excel to consistently deliver results and advance in my career.
-
-I initially pursued roles in Supply Chain due to my affinity for analytical work. Upon introspection, I discovered a deep passion for data analytics. This realization unveiled the myriad of exciting opportunities within the data industry. I'm eager to carve out my niche in the industry and contribute meaningfully to the field.
+# About Me
+After graduating from Purdue University with a degree in Mechanical Engineering in 2016, I embarked on a six-year journey in the manufacturing industry. Throughout this period, I sharpened my analytical skills and utilized tools such as Excel to drive consistent results and progress in my career. However, it was only recently that I uncovered a profound passion for data analytics. I'm excited to document my journey here as I acquire new skill sets and apply them to meaningful projects!
 
 
 # Projects
