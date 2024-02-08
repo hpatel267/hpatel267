@@ -1,16 +1,20 @@
-### Hi there 👋
+# Harsh Patel
+Hello,
+Hello and welcome to my portfolio! My name is Harsh Patel, and I'm delighted to have you here.
 
-<!--
-**hpatel267/hpatel267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository will serve as a showcase for my data analytic projects. I aim to demonstrate my capacity to acquire new skills and apply them to meaningful projects. I'm thrilled to embark on this learning journey and share it with you!
 
-Here are some ideas to get you started:
+## About Me & My Data Journey
+I graduated from Purdue University with a degree in Mechanical Engineering. I spent the six years after school primarily in manufacturing. During this time, I honed my analytical skills and leveraged tools like Excel to consistently deliver results and advance in my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I initially pursued roles in Supply Chain due to my affinity for analytical work. Upon introspection, I discovered a specific passion for data analytics. This realization unveiled the myriad of exciting opportunities within the data industry. I'm eager to carve out my niche in the industry and contribute meaningfully to the field.
+
+
+# Projects
+## Chess Game Analysis
+
+<img src="https://github.com/hpatel267/Harsh-Patel-Portfolio/assets/151773608/240cf7c8-0cf3-4393-96fd-2451d7f2a269" alt="Queen Checkmating Position" width="250" align="right">
+
+For this project, I conducted an in-depth analysis of all the chess games I have played on Chess.com from 2018 to 2023. My objective was to uncover insights to improve my gameplay, and to illustrate the intricate nature of chess.
+
+I chose to exclusively utilize the programming language R for this analysis. Despite being relatively new to R, I viewed this project as an opportunity to challenge myself and leverage R's robust tools for data analysis and visualization.
