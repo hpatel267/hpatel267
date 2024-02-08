@@ -5,7 +5,7 @@ After graduating from Purdue University with a degree in Mechanical Engineering 
 # Projects
 ## [Chess Game Analysis](https://github.com/hpatel267/chess_analysis?tab=readme-ov-file#chess-games-analysis)
 
-<img src="https://github.com/hpatel267/Harsh-Patel-Portfolio/assets/151773608/240cf7c8-0cf3-4393-96fd-2451d7f2a269" alt="Queen Checkmating Position" width="250" align="right">
+<img src="https://github.com/hpatel267/hpatel267/assets/151773608/7e20522d-c6ff-4625-9b54-3395b67b2f18" width="250" align="right">
 
 For this project, I conducted an in-depth analysis of all the chess games I have played on Chess.com from 2018 to 2023. My objective was to uncover insights to improve my gameplay, and to illustrate the intricate nature of chess.
 
