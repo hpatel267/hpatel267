@@ -11,7 +11,7 @@ I initially pursued roles in Supply Chain due to my affinity for analytical work
 
 
 # Projects
-## Chess Game Analysis
+## [Chess Game Analysis](https://github.com/hpatel267/chess_analysis?tab=readme-ov-file#chess-games-analysis)
 
 <img src="https://github.com/hpatel267/Harsh-Patel-Portfolio/assets/151773608/240cf7c8-0cf3-4393-96fd-2451d7f2a269" alt="Queen Checkmating Position" width="250" align="right">
 
