@@ -1,13 +1,7 @@
-# Harsh Patel
-Hello,
-Hello and welcome to my portfolio! My name is Harsh Patel, and I'm delighted to have you here.
-
-This repository will serve as a showcase for my data analytic projects. I aim to demonstrate my capacity to acquire new skills and apply them to meaningful projects. I'm thrilled to embark on this learning journey and share it with you!
-
-## About Me & My Data Journey
+# About Me & My Data Journey
 I graduated from Purdue University with a degree in Mechanical Engineering. I spent the six years after school primarily in manufacturing. During this time, I honed my analytical skills and leveraged tools like Excel to consistently deliver results and advance in my career.
 
-I initially pursued roles in Supply Chain due to my affinity for analytical work. Upon introspection, I discovered a specific passion for data analytics. This realization unveiled the myriad of exciting opportunities within the data industry. I'm eager to carve out my niche in the industry and contribute meaningfully to the field.
+I initially pursued roles in Supply Chain due to my affinity for analytical work. Upon introspection, I discovered a deep passion for data analytics. This realization unveiled the myriad of exciting opportunities within the data industry. I'm eager to carve out my niche in the industry and contribute meaningfully to the field.
 
 
 # Projects
